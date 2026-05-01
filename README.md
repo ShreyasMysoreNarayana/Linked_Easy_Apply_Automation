@@ -134,4 +134,5 @@ A job seeker applying to multiple similar roles can use this tool to:
 ## 👤 Author
 
 Shreyas Mysore Narayana
+
 AI & Data Engineer | Automation Builder
